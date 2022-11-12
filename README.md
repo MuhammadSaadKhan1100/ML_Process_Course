@@ -35,3 +35,6 @@ This is the public repository for the ML Process Course. In this course, we take
 ## 6. Exploratory Data Analysis
 - [10 Types of Statistical Data Distribution Models](https://www.analyticssteps.com/blogs/10-types-statistical-data-distribution-models)
 
+## 7. Feature Engineering
+
+
