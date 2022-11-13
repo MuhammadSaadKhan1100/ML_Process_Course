@@ -3,18 +3,18 @@ This is the public repository for the ML Process Course. In this course, we take
 
 ## Table of Contents
 - [Coding Workbooks for Each Course](https://github.com/PlayingNumbers/ML_Process_Course/blob/main/README.md#coding-workbooks-for-each-course)
-- [Data Science Blogs](https://github.com/PlayingNumbers/ML_Process_Course/blob/main/README.md#data-science-blogs)
-- [Applying ML](https://github.com/PlayingNumbers/ML_Process_Course/blob/main/README.md#2-applying-ml)
-- [Problem Framing](https://github.com/PlayingNumbers/ML_Process_Course/blob/main/README.md#3-problem-framing)
-- [Data Collection](https://github.com/PlayingNumbers/ML_Process_Course/blob/main/README.md#4-data-collection)
-- [Data Preprocessing](https://github.com/PlayingNumbers/ML_Process_Course/blob/main/README.md#5-data-preprocessing)
-- [Exploratory Data Analysis](https://github.com/PlayingNumbers/ML_Process_Course/blob/main/README.md#6-exploratory-data-analysis)
-- [Feature Engineering](https://github.com/PlayingNumbers/ML_Process_Course/blob/main/README.md#7-feature-engineering)
-- [Cross Validation](https://github.com/PlayingNumbers/ML_Process_Course/blob/main/README.md#8-cross-validation)
-- [Feature Selection](https://github.com/PlayingNumbers/ML_Process_Course/blob/main/README.md#9-feature-selection)
-- [Imbalanced Data](https://github.com/PlayingNumbers/ML_Process_Course/blob/main/README.md#10-imbalanced-data)
-- [Modeling](https://github.com/PlayingNumbers/ML_Process_Course/blob/main/README.md#11-modeling)
-- [Model Evaluation](https://github.com/PlayingNumbers/ML_Process_Course/blob/main/README.md#12-model-evaluation)
+1. [Data Science Blogs](https://github.com/PlayingNumbers/ML_Process_Course/blob/main/README.md#data-science-blogs)
+2. [Applying ML](https://github.com/PlayingNumbers/ML_Process_Course/blob/main/README.md#2-applying-ml)
+3. [Problem Framing](https://github.com/PlayingNumbers/ML_Process_Course/blob/main/README.md#3-problem-framing)
+4. [Data Collection](https://github.com/PlayingNumbers/ML_Process_Course/blob/main/README.md#4-data-collection)
+5. [Data Preprocessing](https://github.com/PlayingNumbers/ML_Process_Course/blob/main/README.md#5-data-preprocessing)
+6. [Exploratory Data Analysis](https://github.com/PlayingNumbers/ML_Process_Course/blob/main/README.md#6-exploratory-data-analysis)
+7. [Feature Engineering](https://github.com/PlayingNumbers/ML_Process_Course/blob/main/README.md#7-feature-engineering)
+8. [Cross Validation](https://github.com/PlayingNumbers/ML_Process_Course/blob/main/README.md#8-cross-validation)
+9. [Feature Selection](https://github.com/PlayingNumbers/ML_Process_Course/blob/main/README.md#9-feature-selection)
+10. [Imbalanced Data](https://github.com/PlayingNumbers/ML_Process_Course/blob/main/README.md#10-imbalanced-data)
+11. [Modeling](https://github.com/PlayingNumbers/ML_Process_Course/blob/main/README.md#11-modeling)
+12. [Model Evaluation](https://github.com/PlayingNumbers/ML_Process_Course/blob/main/README.md#12-model-evaluation)
 
 ## Coding Workbooks for Each Course
 |Google Colab         | Kaggle Workbook      |
