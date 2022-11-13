@@ -115,9 +115,19 @@ This is the public repository for the ML Process Course. In this course, we take
 - [Ensembles and Model Stacking by Eshaan Kirpal](https://www.kaggle.com/code/eshaan90/ensembles-and-model-stacking/notebook)
 
 ## 12. Model Evaluation
-
-
-
+- [Model Evaluation Metrics in Machine Learning by Nagesh Singh Chauhan](https://www.kdnuggets.com/2020/05/model-evaluation-metrics-machine-learning.html)
+- [11 Important Model Evaluation Metrics for Machine Learning Everyone should know](https://www.analyticsvidhya.com/blog/2019/08/11-important-model-evaluation-error-metrics/)
+- [How To Interpret R-squared in Regression Analysis by Jim Frost](https://statisticsbyjim.com/regression/interpret-r-squared-regression/)
+- [Know The Best Evaluation Metrics for Your Regression Model by Raghav Agrawal](https://www.analyticsvidhya.com/blog/2021/05/know-the-best-evaluation-metrics-for-your-regression-model/)
+- [Recall, Precision, F1, ROC, AUC, and everything by Ofir Shalev](https://medium.com/swlh/recall-precision-f1-roc-auc-and-everything-542aedf322b9)
+- [F1 Score vs ROC AUC vs Accuracy vs PR AUC: Which Evaluation Metric Should You Choose? by Jakub Czakon](https://neptune.ai/blog/f1-score-accuracy-roc-auc-pr-auc)
+- [Intuition behind Log Loss Score by Gaurav Dembla](https://towardsdatascience.com/intuition-behind-log-loss-score-4e0c9979680a#:~:text=is%20dependent%20on.-,What%20does%20log%2Dloss%20conceptually%20mean%3F,is%20the%20log%2Dloss%20value.)
+- [Why is ROC AUC equivalent to the probability that two randomly-selected samples are correctly ranked?](https://stats.stackexchange.com/questions/190216/why-is-roc-auc-equivalent-to-the-probability-that-two-randomly-selected-samples)
+- [Man U Whitney Test](https://en.wikipedia.org/wiki/Mann%E2%80%93Whitney_U_test#Area-under-curve_(AUC)_statistic_for_ROC_curves)
+- [Essential Things You Need to Know About F1-Score](https://en.wikipedia.org/wiki/Mann%E2%80%93Whitney_U_test#Area-under-curve_(AUC)_statistic_for_ROC_curves)
+- [ROC, AUC, precision, and recall visually explained by Paul Vanderlaken](https://paulvanderlaken.com/2019/08/16/roc-auc-precision-and-recall-visually-explained/)
+-[R-squared Is Not Valid for Nonlinear Regression by Jim Frost](https://statisticsbyjim.com/regression/r-squared-invalid-nonlinear-regression/#:~:text=Nonlinear%20regression%20is%20an%20extremely,just%20don%27t%20go%20together.)
+-[3 Best metrics to evaluate Regression Model? by Songhao Wu](https://towardsdatascience.com/what-are-the-best-metrics-to-evaluate-your-regression-model-418ca481755b)
 
 
 
