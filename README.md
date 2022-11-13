@@ -1,4 +1,4 @@
-# ML_Process_Course
+# ML Process Course
 This is the public repository for the ML Process Course. In this course, we take you through the end-to-end process of building a Machine Learning Model. We did not build this course ourselves. We stood on the shoulders of giants. We think its only fair to credit all the resources we used to build this course, as we could not have created this course without the help of the ML community. 
 
 ## Coding Workbooks for Each Course
@@ -93,6 +93,28 @@ This is the public repository for the ML Process Course. In this course, we take
 - [Fixing Imbalanced Datasets: An Introduction to ADASYN by Rui Nian](https://medium.com/@ruinian/an-introduction-to-adasyn-with-code-1383a5ece7aa)
 
 ## 11. Modeling
+### Hyperparameter Tuning
+- [What does "baseline" mean in the context of machine learning?](https://datascience.stackexchange.com/questions/30912/what-does-baseline-mean-in-the-context-of-machine-learning)
+- [Sklearn's Dummy Estimators](https://scikit-learn.org/stable/modules/model_evaluation.html#dummy-estimators)
+- [7 Hyperparameter Optimization Techniques Every Data Scientist Should Know](https://towardsdatascience.com/7-hyperparameter-optimization-techniques-every-data-scientist-should-know-12cdebe713da)
+- [A Comprehensive Guide on Hyperparameter Tuning and its Techniques](https://www.analyticsvidhya.com/blog/2022/02/a-comprehensive-guide-on-hyperparameter-tuning-and-its-techniques/)
+- [Hyperparameter tuning in Python by Tooba Jamal](https://towardsdatascience.com/hyperparameter-tuning-in-python-21a76794a1f7)
+- [Random Search for Hyper-Parameter Optimization by James Bergestra and Yoshua Bengio](https://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf)
+- [A Conceptual Explanation of Bayesian Hyperparameter Optimization for Machine Learning by Will Koehrsen](https://towardsdatascience.com/a-conceptual-explanation-of-bayesian-model-based-hyperparameter-optimization-for-machine-learning-b8172278050f)
+- [Bayesian Optimization Primer by SigOpt](https://static.sigopt.com/b/20a144d208ef255d3b981ce419667ec25d8412e2/static/pdf/SigOpt_Bayesian_Optimization_Primer.pdf)
+- [Genetic Algorithms by Marcos Del Cueto](https://towardsdatascience.com/genetic-algorithm-to-optimize-machine-learning-hyperparameters-72bd6e2596fc)
+- [Simulated Annealing From Scratch in Python by Jason Brownlee](https://machinelearningmastery.com/simulated-annealing-from-scratch-in-python/#:~:text=Simulated%20Annealing-,Simulated%20Annealing%20is%20a%20stochastic%20global%20search%20optimization%20algorithm.,it%20easier%20to%20work%20with.)
+- [Optimization Techniques — Simulated Annealing by Frank Liang](https://towardsdatascience.com/optimization-techniques-simulated-annealing-d6a4785a1de7)
+- [Hyperparameter optimization for Neural Networks](http://neupy.com/2016/12/17/hyperparameter_optimization_for_neural_networks.html#id13)
+
+### Ensembling
+- [Ensemble Methods: Elegant Techniques to Produce Improved Machine Learning Results](https://www.toptal.com/machine-learning/ensemble-methods-machine-learning#:~:text=Ensemble%20methods%20are%20techniques%20that,than%20a%20single%20model%20would)
+- [A Gentle Introduction to Ensemble Learning Algorithms by Jason Brownlee](https://machinelearningmastery.com/tour-of-ensemble-learning-algorithms/#:~:text=The%20three%20main%20classes%20of,on%20your%20predictive%20modeling%20project.)
+- [Types of Ensemble methods in Machine learning by Anju Tajbangshi](https://towardsdatascience.com/types-of-ensemble-methods-in-machine-learning-4ddaf73879db)
+- [Introduction to Ensembling/Stacking in Python by Anisotropic](https://www.kaggle.com/code/arthurtok/introduction-to-ensembling-stacking-in-python)
+- [Ensembles and Model Stacking by Eshaan Kirpal](https://www.kaggle.com/code/eshaan90/ensembles-and-model-stacking/notebook)
+
+## 12. Model Evaluation
 
 
 
