@@ -1,6 +1,18 @@
 # ML_Process_Course
 This is the public repository for the ML Process Course. In this course, we take you through the end-to-end process of building a Machine Learning Model. We did not build this course ourselves. We stood on the shoulders of giants. We think its only fair to credit all the resources we used to build this course, as we could not have created this course without the help of the ML community. 
 
+## Coding Workbooks for Each Course
+|Google Colab         | Kaggle Workbook      |
+| :------------ | :-----------: |
+| [5-Missing Values](https://colab.research.google.com/drive/1P-4i_T1UE8_PLZibNApGbGPDxhOJDnd8?usp=sharing), [5-Outliers](https://colab.research.google.com/drive/1e_9VUn48sOebsEmDMRZ2R7OEkJLM9Zxt?usp=sharing) | (In Progress) |
+| [6-EDA](https://colab.research.google.com/drive/18sWPkf2o6yX2RJu0YRZRCbJqNzc5q8ZS?usp=sharing)  | [6-EDA](https://www.kaggle.com/code/kenjee/basic-eda-example)     |
+| [7-Categoricals](https://colab.research.google.com/drive/1F94kWYM_GTb-Neh_jCte04BxfcUdBodn?usp=sharing)  | (In Progress)   |
+| [8-Cross Validation](https://colab.research.google.com/drive/1xsVT5MWAX1Yq8KXMPbqU6DBti-NN17YH?usp=sharing) | (In Progress)    |
+| [9-Feature Selection](https://colab.research.google.com/drive/19uXC7Cm_K1FDTjkcRVjxcAY4f7dv6LDV?usp=sharing) | (In Progress)     |
+| [10-Imbalanced Data](https://colab.research.google.com/drive/1pulqugw0V1xyoMbQrB3aTdlwO0KDXDFf?usp=sharing) | [10-Imbalanced Data](https://www.kaggle.com/code/kenjee/dealing-with-imbalanced-data)    |
+| 11-Model Selection(In Progress) | (In Progress)     |
+| [12-Model Evaluation](https://colab.research.google.com/drive/1FYHAL3lbv7Rdh3EV9TooMFkPNv6MEJly?usp=sharing) | (In Progress)     |
+
 ## Data Science Blogs
 - [AirBnB Engineering](https://medium.com/airbnb-engineering)
 - [Spotify Research](https://research.atspotify.com/blog/)
