@@ -1,6 +1,21 @@
 # ML Process Course
 This is the public repository for the ML Process Course. In this course, we take you through the end-to-end process of building a Machine Learning Model. We did not build this course ourselves. We stood on the shoulders of giants. We think its only fair to credit all the resources we used to build this course, as we could not have created this course without the help of the ML community. 
 
+## Table of Contents
+- [Coding Workbooks for Each Course](https://github.com/PlayingNumbers/ML_Process_Course/blob/main/README.md#coding-workbooks-for-each-course)
+- [Data Science Blogs](https://github.com/PlayingNumbers/ML_Process_Course/blob/main/README.md#data-science-blogs)
+- [Applying ML](https://github.com/PlayingNumbers/ML_Process_Course/blob/main/README.md#2-applying-ml)
+- [Problem Framing](https://github.com/PlayingNumbers/ML_Process_Course/blob/main/README.md#3-problem-framing)
+- [Data Collection](https://github.com/PlayingNumbers/ML_Process_Course/blob/main/README.md#4-data-collection)
+- [Data Preprocessing](https://github.com/PlayingNumbers/ML_Process_Course/blob/main/README.md#5-data-preprocessing)
+- [Exploratory Data Analysis](https://github.com/PlayingNumbers/ML_Process_Course/blob/main/README.md#6-exploratory-data-analysis)
+- [Feature Engineering](https://github.com/PlayingNumbers/ML_Process_Course/blob/main/README.md#7-feature-engineering)
+- [Cross Validation](https://github.com/PlayingNumbers/ML_Process_Course/blob/main/README.md#8-cross-validation)
+- [Feature Selection](https://github.com/PlayingNumbers/ML_Process_Course/blob/main/README.md#9-feature-selection)
+- [Imbalanced Data](https://github.com/PlayingNumbers/ML_Process_Course/blob/main/README.md#10-imbalanced-data)
+- [Modeling](https://github.com/PlayingNumbers/ML_Process_Course/blob/main/README.md#11-modeling)
+- [Model Evaluation](https://github.com/PlayingNumbers/ML_Process_Course/blob/main/README.md#12-model-evaluation)
+
 ## Coding Workbooks for Each Course
 |Google Colab         | Kaggle Workbook      |
 | :------------ | :-----------: |
