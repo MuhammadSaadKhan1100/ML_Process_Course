@@ -51,6 +51,8 @@ This is the public repository for the ML Process Course. In this course, we take
 
 
 ## 4. Data Collection
+- [TO ADD: Web Scraping]
+- [TO ADD: SQL Query Courses]
 
 ## 5. Data Preprocessing
 - [All You Need To Know About Different Types Of Missing Data Values And How To Handle It](https://www.analyticsvidhya.com/blog/2021/10/handling-missing-value/#:~:text=Types%20Of%20Missing%20Values,Missing%20Not%20At%20Random%20(MNAR))
