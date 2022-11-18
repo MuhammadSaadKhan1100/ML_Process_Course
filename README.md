@@ -146,7 +146,8 @@ This is the public repository for the ML Process Course. In this course, we take
 -[R-squared Is Not Valid for Nonlinear Regression by Jim Frost](https://statisticsbyjim.com/regression/r-squared-invalid-nonlinear-regression/#:~:text=Nonlinear%20regression%20is%20an%20extremely,just%20don%27t%20go%20together.)
 -[3 Best metrics to evaluate Regression Model? by Songhao Wu](https://towardsdatascience.com/what-are-the-best-metrics-to-evaluate-your-regression-model-418ca481755b)
 
-
+## 12. Model Productionization
+[ TO ADD]
 
 
 
