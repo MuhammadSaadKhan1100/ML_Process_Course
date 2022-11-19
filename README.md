@@ -19,14 +19,14 @@ This is the public repository for the ML Process Course. In this course, we take
 ## Coding Workbooks for Each Course
 |Google Colab         | Kaggle Workbook      |
 | :------------ | :-----------: |
-| [5-Missing Values](https://colab.research.google.com/drive/1P-4i_T1UE8_PLZibNApGbGPDxhOJDnd8?usp=sharing), [5-Outliers](https://colab.research.google.com/drive/1e_9VUn48sOebsEmDMRZ2R7OEkJLM9Zxt?usp=sharing) | (In Progress) |
-| [6-EDA](https://colab.research.google.com/drive/18sWPkf2o6yX2RJu0YRZRCbJqNzc5q8ZS?usp=sharing)  | [6-EDA](https://www.kaggle.com/code/kenjee/basic-eda-example)     |
-| [7-Categoricals](https://colab.research.google.com/drive/1F94kWYM_GTb-Neh_jCte04BxfcUdBodn?usp=sharing)  | (In Progress)   |
-| [8-Cross Validation](https://colab.research.google.com/drive/1xsVT5MWAX1Yq8KXMPbqU6DBti-NN17YH?usp=sharing) | (In Progress)    |
-| [9-Feature Selection](https://colab.research.google.com/drive/19uXC7Cm_K1FDTjkcRVjxcAY4f7dv6LDV?usp=sharing) | (In Progress)     |
-| [10-Imbalanced Data](https://colab.research.google.com/drive/1pulqugw0V1xyoMbQrB3aTdlwO0KDXDFf?usp=sharing) | [10-Imbalanced Data](https://www.kaggle.com/code/kenjee/dealing-with-imbalanced-data)    |
-| 11-Model Selection(In Progress) | (In Progress)     |
-| [12-Model Evaluation](https://colab.research.google.com/drive/1FYHAL3lbv7Rdh3EV9TooMFkPNv6MEJly?usp=sharing) | (In Progress)     |
+| [5-Missing Values](https://colab.research.google.com/drive/1P-4i_T1UE8_PLZibNApGbGPDxhOJDnd8?usp=sharing), [5-Outliers](https://colab.research.google.com/drive/1e_9VUn48sOebsEmDMRZ2R7OEkJLM9Zxt?usp=sharing) | [5-Missing Values](https://www.kaggle.com/code/kenjee/dealing-with-missing-values-section-5-1), [5-Outliers](https://www.kaggle.com/code/kenjee/dealing-with-outliers-section-5-2) |
+| [6-EDA](https://colab.research.google.com/drive/18sWPkf2o6yX2RJu0YRZRCbJqNzc5q8ZS?usp=sharing)  | [6-EDA](https://www.kaggle.com/code/kenjee/basic-eda-example-section-6)     |
+| [7-Categoricals](https://colab.research.google.com/drive/1F94kWYM_GTb-Neh_jCte04BxfcUdBodn?usp=sharing)  | [7-Categoricals](https://www.kaggle.com/code/kenjee/categorical-feature-engineering-section-7-1), [7-Continuous](https://www.kaggle.com/code/kenjee/feature-scaling-section-7-2)  |
+| [8-Cross Validation](https://colab.research.google.com/drive/1xsVT5MWAX1Yq8KXMPbqU6DBti-NN17YH?usp=sharing) | [8-Cross Validation](https://www.kaggle.com/code/kenjee/cross-validation-foundations-section-8)    |
+| [9-Feature Selection](https://colab.research.google.com/drive/19uXC7Cm_K1FDTjkcRVjxcAY4f7dv6LDV?usp=sharing) | [9-Feature Selection](https://www.kaggle.com/code/kenjee/feature-selection-section-9)     |
+| [10-Imbalanced Data](https://colab.research.google.com/drive/1pulqugw0V1xyoMbQrB3aTdlwO0KDXDFf?usp=sharing) | [10-Imbalanced Data](https://www.kaggle.com/code/kenjee/dealing-with-imbalanced-data-section-10)    |
+| 11-Model Selection(In Progress) | [11-Model Selection](https://www.kaggle.com/code/kenjee/model-building-example-section-11)     |
+| [12-Model Evaluation](https://colab.research.google.com/drive/1FYHAL3lbv7Rdh3EV9TooMFkPNv6MEJly?usp=sharing) | [12-Model Evaluation Classification](https://www.kaggle.com/code/kenjee/model-evaluation-classification-section-12), [12-Model Evaluation Regression](https://www.kaggle.com/code/kenjee/model-evaluation-regression-12)     |
 
 ## Data Science Blogs
 - [AirBnB Engineering](https://medium.com/airbnb-engineering)
@@ -51,8 +51,16 @@ This is the public repository for the ML Process Course. In this course, we take
 
 
 ## 4. Data Collection
-- [TO ADD: Web Scraping]
-- [TO ADD: SQL Query Courses]
+- [Getting Data From a Database](https://medium.com/swlh/searching-through-a-database-52eaaf64f89c)
+- [What is SQL - Video](https://www.youtube.com/watch?v=27axs9dO7AE&ab_channel=DanielleTh%C3%A9)
+- [How Data Analysts Use SQL - Video](https://www.youtube.com/watch?v=GEBzsz8ZSXs&ab_channel=LukeBarousse)
+- [Why Are APIs Important For Data Science - Video](https://www.youtube.com/watch?v=s1gD35Z4eUc&ab_channel=KenJee)
+- [What is an API?](https://www.freecodecamp.org/news/what-is-an-api-in-english-please-b880a3214a82/)
+- [How Companies Caputre Data](https://kb.narrative.io/how-do-companies-collect-data)
+- [How Cookies Work](https://www.acxiom.com/about-us/privacy/how-cookies-work/#:~:text=What%20Are%20Cookies%2C%20and%20How,some%20useful%20information%20about%20you.)
+- [Web Scraping Basics](https://towardsdatascience.com/web-scraping-basics-82f8b5acd45c)
+- [Types of Survey Techniques](https://www.questionpro.com/blog/survey-data-collection/)
+- [365 Data Science SQL Course](https://365datascience.com/courses/sql/)
 
 ## 5. Data Preprocessing
 - [All You Need To Know About Different Types Of Missing Data Values And How To Handle It](https://www.analyticsvidhya.com/blog/2021/10/handling-missing-value/#:~:text=Types%20Of%20Missing%20Values,Missing%20Not%20At%20Random%20(MNAR))
@@ -63,6 +71,18 @@ This is the public repository for the ML Process Course. In this course, we take
 
 ## 6. Exploratory Data Analysis
 - [10 Types of Statistical Data Distribution Models](https://www.analyticssteps.com/blogs/10-types-statistical-data-distribution-models)
+- [What is EDA?](https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15)
+- [Is Data Visualization Important for Data Science? - Video](https://www.youtube.com/watch?v=k8YxyrcAXJs&ab_channel=KenJee)
+- [Box Plot Details](https://byjus.com/maths/box-plot/)
+- [Histogram Additional Details](https://towardsdatascience.com/histograms-why-how-431a5cfbfcd5#:~:text=A%20histogram%20provides%20a%20visual,or%20gaps%20in%20the%20data.)
+- [Types of Data Distributions](https://www.analyticsvidhya.com/blog/2017/09/6-probability-distributions-data-science/)
+- [Understanding Skew](https://en.wikipedia.org/wiki/Skewness)
+- [Scatterplots and Correlation Additional Details](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/introduction-to-scatterplots/a/scatterplots-and-correlation-review)
+- [Types of Correlations](https://www.ncl.ac.uk/webtemplate/ask-assets/external/maths-resources/statistics/regression-and-correlation/types-of-correlation.html)
+- [Correlation Matrix Details](https://www.displayr.com/what-is-a-correlation-matrix/)
+- [Different correlation matrices in python](https://medium.com/@szabo.bibor/how-to-create-a-seaborn-correlation-heatmap-in-python-834c0686b88e)
+- [Creating Pivot Tables Documentation](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.pivot_table.html)
+- [When to use different types of charts](https://help.flourish.studio/article/25-line-bar-and-pie-charts#:~:text=Line%20charts%20are%20ideal%20for,or%20axis%20labels%20are%20long.)
 
 ## 7. Feature Engineering
 ### Categorical Feature Engineering
