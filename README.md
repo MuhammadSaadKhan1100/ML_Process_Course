@@ -21,7 +21,7 @@ This is the public repository for the ML Process Course. In this course, we take
 | :------------ | :-----------: |
 | [5-Missing Values](https://colab.research.google.com/drive/1P-4i_T1UE8_PLZibNApGbGPDxhOJDnd8?usp=sharing), [5-Outliers](https://colab.research.google.com/drive/1e_9VUn48sOebsEmDMRZ2R7OEkJLM9Zxt?usp=sharing) | [5-Missing Values](https://www.kaggle.com/code/kenjee/dealing-with-missing-values-section-5-1), [5-Outliers](https://www.kaggle.com/code/kenjee/dealing-with-outliers-section-5-2) |
 | [6-EDA](https://colab.research.google.com/drive/18sWPkf2o6yX2RJu0YRZRCbJqNzc5q8ZS?usp=sharing)  | [6-EDA](https://www.kaggle.com/code/kenjee/basic-eda-example-section-6)     |
-| [7-Categoricals](https://colab.research.google.com/drive/1F94kWYM_GTb-Neh_jCte04BxfcUdBodn?usp=sharing), [7-Continuous](https://colab.research.google.com/drive/1SGwguOuloOG7nd3OoOGBALR9jOg26UNt?usp=sharing)  | [7-Categoricals](https://www.kaggle.com/code/kenjee/categorical-feature-engineering-section-7-1), [7-Continuous](https://www.kaggle.com/code/kenjee/feature-scaling-section-7-2)  |
+| [7-Categoricals](https://colab.research.google.com/drive/1F94kWYM_GTb-Neh_jCte04BxfcUdBodn?usp=sharing), [7-Continuous](https://colab.research.google.com/drive/1SGwguOuloOG7nd3OoOGBALR9jOg26UNt?usp=sharing)  | [7-Categoricals](https://www.kaggle.com/code/kenjee/categorical-feature-engineering-section-7-1), [7-Continuous](https://www.kaggle.com/code/kenjee/numeric-feature-engineering-section-7-2)  |
 | [8-Cross Validation](https://colab.research.google.com/drive/1xsVT5MWAX1Yq8KXMPbqU6DBti-NN17YH?usp=sharing) | [8-Cross Validation](https://www.kaggle.com/code/kenjee/cross-validation-foundations-section-8)    |
 | [9-Feature Selection](https://colab.research.google.com/drive/19uXC7Cm_K1FDTjkcRVjxcAY4f7dv6LDV?usp=sharing) | [9-Feature Selection](https://www.kaggle.com/code/kenjee/feature-selection-section-9)     |
 | [10-Imbalanced Data](https://colab.research.google.com/drive/1pulqugw0V1xyoMbQrB3aTdlwO0KDXDFf?usp=sharing) | [10-Imbalanced Data](https://www.kaggle.com/code/kenjee/dealing-with-imbalanced-data-section-10)    |
@@ -163,11 +163,21 @@ This is the public repository for the ML Process Course. In this course, we take
 - [Man U Whitney Test](https://en.wikipedia.org/wiki/Mann%E2%80%93Whitney_U_test#Area-under-curve_(AUC)_statistic_for_ROC_curves)
 - [Essential Things You Need to Know About F1-Score](https://en.wikipedia.org/wiki/Mann%E2%80%93Whitney_U_test#Area-under-curve_(AUC)_statistic_for_ROC_curves)
 - [ROC, AUC, precision, and recall visually explained by Paul Vanderlaken](https://paulvanderlaken.com/2019/08/16/roc-auc-precision-and-recall-visually-explained/)
--[R-squared Is Not Valid for Nonlinear Regression by Jim Frost](https://statisticsbyjim.com/regression/r-squared-invalid-nonlinear-regression/#:~:text=Nonlinear%20regression%20is%20an%20extremely,just%20don%27t%20go%20together.)
--[3 Best metrics to evaluate Regression Model? by Songhao Wu](https://towardsdatascience.com/what-are-the-best-metrics-to-evaluate-your-regression-model-418ca481755b)
+- [R-squared Is Not Valid for Nonlinear Regression by Jim Frost](https://statisticsbyjim.com/regression/r-squared-invalid-nonlinear-regression/#:~:text=Nonlinear%20regression%20is%20an%20extremely,just%20don%27t%20go%20together.)
+- [3 Best metrics to evaluate Regression Model? by Songhao Wu](https://towardsdatascience.com/what-are-the-best-metrics-to-evaluate-your-regression-model-418ca481755b)
 
 ## 12. Model Productionization
-[ TO ADD]
-
-
+- [Git For Data Scientists - Video](https://www.youtube.com/watch?v=_0rHU6qAQe0&ab_channel=KenJee)
+- [Git Documentation](https://git-scm.com/doc)
+- [Git Basics in 10 minutes](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/)
+- [365 Data Science Git & Github Course](https://365datascience.com/courses/git-and-github/)
+- [Save and load ml models](https://machinelearningmastery.com/save-load-machine-learning-models-python-scikit-learn/)
+- [5 Different Ways to Save your ML Model](https://towardsdatascience.com/5-different-ways-to-save-your-machine-learning-model-b7996489d433)
+- [Improve analytics slide decks](https://towardsdatascience.com/5-tips-to-improve-your-analytics-slide-decks-c5d0559259c0)
+- [Streamlit Gallery](https://streamlit.io/gallery)
+- [Build 12 streamlit apps - Video](https://www.youtube.com/watch?v=JwSS70SZdyM&ab_channel=freeCodeCamp.org)
+- [Streamlit Project Example - Video](https://www.youtube.com/watch?v=Yk-unX4KnV4&ab_channel=KenJee)
+- [Build an api in python - Video](https://www.youtube.com/watch?v=5ZMpbdK0uqU&ab_channel=Indently)
+- [How to create an API in python](https://anderfernandez.com/en/blog/how-to-create-api-python/#:~:text=To%20create%20an%20API%20in%20Python%20with%20Flask%2C%20we%20have,app%20%3D%20Flask()%20%40app.)
+- [How to create a python library](https://medium.com/analytics-vidhya/how-to-create-a-python-library-7d5aea80cc3f)
 
