@@ -1,5 +1,5 @@
 # ML Process Course
-This is the public repository for the ML Process Course (https://365datascience.com/courses/learn-machine-learning-process-a-z/). In this course, we take you through the end-to-end process of building a Machine Learning Model. We did not build this course ourselves. We stood on the shoulders of giants. We think its only fair to credit all the resources we used to build this course, as we could not have created this course without the help of the ML community. 
+This is the public repository for the ML Process Course (https://365datascience.com/learn-machine-learning-process-a-z/). In this course, we take you through the end-to-end process of building a Machine Learning Model. We did not build this course ourselves. We stood on the shoulders of giants. We think its only fair to credit all the resources we used to build this course, as we could not have created this course without the help of the ML community. 
 
 ## Table of Contents
 0. [Coding Workbooks for Each Course](https://github.com/PlayingNumbers/ML_Process_Course/blob/main/README.md#coding-workbooks-for-each-course)
